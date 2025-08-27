@@ -1,0 +1,27 @@
+richard-portfolio/
+│
+├── README.md
+├── data-analytics/
+│   ├── hr-attrition-dashboard/
+│   │   └── README.md
+│   ├── sales-forecasting-model/
+│   │   └── README.md
+│   └── customer-segmentation/
+│       └── README.md
+│
+├── frontend-development/
+│   ├── secure-client-portal/
+│   │   └── README.md
+│   ├── responsive-landing-page/
+│   │   └── README.md
+│   └── erp-dashboard-ui/
+│       └── README.md
+│
+├── database-engineering/
+│   ├── azure-sql-migration/
+│   │   └── README.md
+│   ├── erp-sql-integration/
+│   │   └── README.md
+│   └── data-warehouse-design/
+│       └── README.md
+
