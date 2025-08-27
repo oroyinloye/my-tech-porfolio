@@ -1,21 +1,21 @@
 # Richard Olayemi Oyinloye – Tech Portfolio
 
-Welcome to my professional portfolio! I’m a multi-skilled IT professional with 20+ years of experience in data analytics, frontend development, and database engineering. This space showcases my key projects, technical skills, and impact across industries.
+Welcome to my professional portfolio! I’m a multi-skilled IT professional with 20+ years of experience in Data Analytics, Frontend Development, and Database Engineering. This repository showcases my key projects, technical skills, and impact across industries.
 
-## 🔍 Data Analytics
-- HR Attrition Dashboard (Power BI)
-- Sales Forecasting Model (Python)
-- Customer Segmentation (SQL + Tableau)
+## 📊 Data Analytics Projects
+- [HR Attrition Dashboard](./data-analytics/hr-attrition-dashboard)
+- [Sales Forecasting Model](./data-analytics/sales-forecasting-model)
+- [Customer Segmentation](./data-analytics/customer-segmentation)
 
-## 💻 Frontend Development
-- Secure Client Portal (React + Django)
-- ERP Dashboard UI (JavaScript + PHP)
-- Responsive Landing Page (HTML/CSS)
+## 💻 Frontend Development Projects
+- [Secure Client Portal](./frontend-development/secure-client-portal)
+- [Responsive Landing Page](./frontend-development/responsive-landing-page)
+- [ERP Dashboard UI](./frontend-development/erp-dashboard-ui)
 
-## 🗄️ Database Engineering
-- Azure SQL Migration
-- ERP SQL Integration
-- Data Warehouse Design (SSIS + Azure Data Factory)
+## 🗄️ Database Engineering Projects
+- [Azure SQL Migration](./database-engineering/azure-sql-migration)
+- [ERP SQL Integration](./database-engineering/erp-sql-integration)
+- [Data Warehouse Design](./database-engineering/data-warehouse-design)
 
 ## 📫 Contact
 - 📧 richard.oyinloye@gmail.com
